@@ -1,0 +1,48 @@
+body{
+    background-color: #f8fafc;
+    color: #0f172a;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+
+p {
+    font-size: 0.7rem;
+}
+
+header{
+    background-color: #2563eb;
+    color: #f8fafc;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+h5{
+    margin-top: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 0;
+}
+
+li{
+    margin-right: 10px;
+    font-size: 0.7rem;
+}
+
+.container{
+    padding-top: 3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-bottom: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: #f8fafc;
+}
