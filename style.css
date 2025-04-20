@@ -32,7 +32,7 @@ h5{
 
 .nav li{
     margin-right: 10px;
-    font-size: 0.7rem;
+    font-size: 1.3rem;
 }
 
 .container{
@@ -77,10 +77,10 @@ a{
     padding: 1rem;
 }
 
-footer{
+.rights{
     background-color: #0f172a;
     color: #f8fafc;
-    font-size: 0.6rem;
+    font-size: 1.1rem;
     padding: 2rem;
     display: flex;
     justify-content: center;
